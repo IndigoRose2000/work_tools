@@ -1,0 +1,57 @@
+[2025/01/08 10:35:08]GCLOUD_VERSION_TP_7.3.09.36541
+[2025/01/08 10:35:08]android ver:7.3.9.36541 20230522
+[2025/01/08 10:35:08]{
+[2025/01/08 10:35:08] __MODULE_TERSAFE2__
+[2025/01/08 10:35:08] __ENABLE_DATA_ENC__
+[2025/01/08 10:35:08] __ENABLE_MPRCS__
+[2025/01/08 10:35:08] __ENABLE_TPSTL__
+[2025/01/08 10:35:08] __ENABLE_TPLIBC__
+[2025/01/08 10:35:08] __USE_NEW_QOS_ONLY__
+[2025/01/08 10:35:08] __ENABLE_SO_UPDATE__
+[2025/01/08 10:35:08]}
+[2025/01/08 10:35:08]module
+[2025/01/08 10:35:08]{
+[2025/01/08 10:35:08] 17:1
+[2025/01/08 10:35:08] 19:1
+[2025/01/08 10:35:08] 24:1
+[2025/01/08 10:35:08]}
+[2025/01/08 10:35:08]so:arm64
+[2025/01/08 10:35:08]pid:1405
+[2025/01/08 10:35:08]ctl:ilc_open_pipe
+[2025/01/08 10:35:08]ChkInit{
+[2025/01/08 10:35:08]init_info:0x775ce2dd10
+[2025/01/08 10:35:08]init_info->size_:16
+[2025/01/08 10:35:08]init_info->game_id_:20059
+[2025/01/08 10:35:08]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/01/08 10:35:08]ChkInit}
+[2025/01/08 10:35:08]|jar_ver:7.3.9(2020/11/10)-jar-version
+[2025/01/08 10:35:08]ChkSetGameStatus{
+[2025/01/08 10:35:08]status_info:0x775ce2e108
+[2025/01/08 10:35:08]status_info->size_:8
+[2025/01/08 10:35:08]status_info->game_status_:2
+[2025/01/08 10:35:08]ChkSetGameStatus}
+[2025/01/08 10:35:08]ChkSetGameStatus{
+[2025/01/08 10:35:08]status_info:0x775ce2e0d8
+[2025/01/08 10:35:08]status_info->size_:8
+[2025/01/08 10:35:08]status_info->game_status_:1
+[2025/01/08 10:35:08]ChkSetGameStatus}
+[2025/01/08 10:35:12]SetUserInfoEx{
+[2025/01/08 10:35:12]user_info:0x775ce2dd58
+[2025/01/08 10:35:12]user_info->size_:212
+[2025/01/08 10:35:12]user_info->entry_id_:1
+[2025/01/08 10:35:12]user_info->uin_.type_:2
+[2025/01/08 10:35:12]user_info->uin_.uin_str_:AB36366565F9E02C191ACE_739
+[2025/01/08 10:35:12]user_info->app_id_.type_:2
+[2025/01/08 10:35:12]user_info->app_id_.app_id_str_:
+[2025/01/08 10:35:12]user_info->world_id_:101
+[2025/01/08 10:35:12]user_info->role_id_:paladin
+[2025/01/08 10:35:12]SetUserInfoEx}
+[2025/01/08 10:35:12]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/20059/config2.xml, retval:0, size:728, cache:0
+[2025/01/08 10:35:12]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/20059/config3.xml, retval:-1, size:0, cache:0
+[2025/01/08 10:35:12]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/26E55B6A/tss_ano.dat, retval:0, size:3701, cache:0
+[2025/01/08 10:35:12]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/5DC1D8B9/cpfc.zip, retval:0, size:6750, cache:0
+[2025/01/08 10:35:12]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/8CE149F7/tp2cfg.dat, retval:0, size:767, cache:0
+[2025/01/08 10:35:12]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/1EB83FE7/ob_cs1_32.zip, retval:0, size:713, cache:0
+[2025/01/08 10:35:13]DoConnCSChannelImp, 180.102.211.116:443
+[2025/01/08 10:35:58]|bin.mt.plus:bin.mt.plus, attr:0X00010000
+[2025/01/08 10:36:00]send_cs:24, send_gs:2, remain_cnt:2

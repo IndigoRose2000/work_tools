@@ -1,0 +1,91 @@
+[2025/01/09 16:07:58]android ver:7.2.17.20786 20230522
+[2025/01/09 16:07:58]{
+[2025/01/09 16:07:58] __MODULE_TERSAFE2__
+[2025/01/09 16:07:58] __ACE_EXPORT__
+[2025/01/09 16:07:58] __ENABLE_DATA_ENC__
+[2025/01/09 16:07:58] __ENABLE_TPSTL__
+[2025/01/09 16:07:58] __ENABLE_TPLIBC__
+[2025/01/09 16:07:58] __USE_NEW_QOS_ONLY__
+[2025/01/09 16:07:58]}
+[2025/01/09 16:07:58]module
+[2025/01/09 16:07:58]{
+[2025/01/09 16:07:58] 17:1
+[2025/01/09 16:07:58] 19:1
+[2025/01/09 16:07:58] 24:1
+[2025/01/09 16:07:58] 68:1
+[2025/01/09 16:07:58]}
+[2025/01/09 16:07:58]so:arm64
+[2025/01/09 16:07:58]pid:28268
+[2025/01/09 16:07:58]!aac
+[2025/01/09 16:07:58]ctl:ilc_open_pipe
+[2025/01/09 16:07:58]ChkInit{
+[2025/01/09 16:07:58]init_info:0x7f99c2acd0
+[2025/01/09 16:07:58]init_info->size_:16
+[2025/01/09 16:07:58]init_info->game_id_:20109
+[2025/01/09 16:07:58]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/01/09 16:07:58]ChkInit}
+[2025/01/09 16:07:58]|jar_ver:7.2.17(2020/11/10)-jar-version
+[2025/01/09 16:07:58]!gp3:28351
+[2025/01/09 16:08:01][VM64][builtin.zip][vm_main.img]build_options
+[2025/01/09 16:08:01][VM64][builtin.zip][vm_main.img]{
+[2025/01/09 16:08:01][VM64][builtin.zip][vm_main.img]  ver:20240619.1
+[2025/01/09 16:08:01][VM64][builtin.zip][vm_main.img]  arch:arm64
+[2025/01/09 16:08:01][VM64][builtin.zip][vm_main.img]  __PLATFORM_ANDROID__
+[2025/01/09 16:08:01][VM64][builtin.zip][vm_main.img]}
+[2025/01/09 16:08:01]SetUserInfoEx{
+[2025/01/09 16:08:01]user_info:0x7f99c2ab90
+[2025/01/09 16:08:01]user_info->size_:212
+[2025/01/09 16:08:01]user_info->entry_id_:1
+[2025/01/09 16:08:01]user_info->uin_.type_:2
+[2025/01/09 16:08:01]user_info->uin_.uin_str_:AB36366565F9E02C191ACEANO_7217
+[2025/01/09 16:08:01]user_info->app_id_.type_:2
+[2025/01/09 16:08:01]user_info->app_id_.app_id_str_:
+[2025/01/09 16:08:01]user_info->world_id_:0
+[2025/01/09 16:08:01]user_info->role_id_:
+[2025/01/09 16:08:01]SetUserInfoEx}
+[2025/01/09 16:08:01]send_0,ret:1,cnt:1,len:132,remain:2,cs:0
+[2025/01/09 16:08:01]cai:1
+[2025/01/09 16:08:02]DoConnCSChannelImp, 101.32.143.142:443
+[2025/01/09 16:08:04]send_1,ret:1,cnt:3,len:290,remain:2,cs:1
+[2025/01/09 16:08:04]send_2,ret:1,cnt:1,len:57,remain:1,cs:1
+[2025/01/09 16:08:04]send_3,ret:1,cnt:1,len:198,remain:0,cs:1
+[2025/01/09 16:08:05]cs_dl https://dl.listdl.com/iedsafe/Client/android/test/20109/config2.xml, err:0, dl len:861, cache:0, report:1
+[2025/01/09 16:08:05]dl https://dl.listdl.com/iedsafe/Client/android/test/20109/config2.xml, retval:0, size:861, cache:0
+[2025/01/09 16:08:06]dl https://dl.listdl.com/iedsafe/Client/android/test/20109/config3.xml, retval:-1, size:0, cache:0
+[2025/01/09 16:08:07]send_4,ret:1,cnt:2,len:423,remain:0,cs:1
+[2025/01/09 16:08:08]cs_dl https://dl.listdl.com/iedsafe/Client/android/20109/2B6881F8/comm.zip, err:0, dl len:32580, cache:0, report:1
+[2025/01/09 16:08:08]dl https://dl.listdl.com/iedsafe/Client/android/20109/2B6881F8/comm.zip, retval:0, size:32580, cache:0
+[2025/01/09 16:08:10]send_5,ret:1,cnt:2,len:423,remain:0,cs:1
+[2025/01/09 16:08:11]cs_dl https://dl.listdl.com/iedsafe/Client/android/20109/4CE8CCC9/tss_ano.dat, err:0, dl len:2736, cache:0, report:1
+[2025/01/09 16:08:11]dl https://dl.listdl.com/iedsafe/Client/android/20109/4CE8CCC9/tss_ano.dat, retval:0, size:2736, cache:0
+[2025/01/09 16:08:13]send_6,ret:1,cnt:2,len:426,remain:0,cs:1
+[2025/01/09 16:08:16]send_7,ret:1,cnt:1,len:49,remain:0,cs:0
+[2025/01/09 16:08:17]cs_dl https://dl.listdl.com/iedsafe/Client/android/20109/78131640/tp2cfg.dat, err:0, dl len:1505, cache:0, report:1
+[2025/01/09 16:08:17]dl https://dl.listdl.com/iedsafe/Client/android/20109/78131640/tp2cfg.dat, retval:0, size:1505, cache:0
+[2025/01/09 16:08:19]send_8,ret:1,cnt:2,len:427,remain:0,cs:1
+[2025/01/09 16:08:20]cs_dl https://dl.listdl.com/iedsafe/Client/android/20109/084B5BAC/ob_x_ace.zip, err:0, dl len:96235, cache:0, report:1
+[2025/01/09 16:08:20]dl https://dl.listdl.com/iedsafe/Client/android/20109/084B5BAC/ob_x_ace.zip, retval:0, size:96235, cache:0
+[2025/01/09 16:08:22]send_9,ret:1,cnt:2,len:428,remain:0,cs:1
+[2025/01/09 16:08:24]cs_dl https://dl.listdl.com/iedsafe/Client/android/20109/9A9A43FC/tssmua2.zip, err:0, dl len:128251, cache:0, report:1
+[2025/01/09 16:08:24]dl https://dl.listdl.com/iedsafe/Client/android/20109/9A9A43FC/tssmua2.zip, retval:0, size:128251, cache:0
+[2025/01/09 16:08:24][VM64][builtin.zip][vm_main.img]RoDataScanerV, time cast:14ms
+[2025/01/09 16:08:24][VM]maDelta_scan.img end, loop:24
+[2025/01/09 16:08:26]send_10,ret:1,cnt:4,len:810,remain:1,cs:1
+[2025/01/09 16:08:28]send_11,ret:1,cnt:1,len:279,remain:0,cs:1
+[2025/01/09 16:08:40]send_12,ret:1,cnt:2,len:829,remain:0,cs:1
+[2025/01/09 16:08:42]send_13,ret:1,cnt:1,len:358,remain:0,cs:1
+[2025/01/09 16:08:47]send_14,ret:1,cnt:3,len:670,remain:0,cs:1
+[2025/01/09 16:08:50]send_15,ret:1,cnt:3,len:963,remain:3,cs:1
+[2025/01/09 16:08:50]send_16,ret:1,cnt:3,len:939,remain:0,cs:1
+[2025/01/09 16:08:51][JAVA]*#06#:AddTouchEvent:col=283|row=1775|col_max=1080|row_max=1920|id=9|name=synaptics_dsx_i2c|source=4098|external=0|flags=0
+[2025/01/09 16:08:51][JAVA]*#06#:AddTouchEvent:col=283|row=1775|col_max=1080|row_max=1920|id=9|name=synaptics_dsx_i2c|source=4098|external=0|flags=0
+[2025/01/09 16:08:51][JAVA]*#06#:AddTouchEvent:col=283|row=1775|col_max=1080|row_max=1920|id=9|name=synaptics_dsx_i2c|source=4098|external=0|flags=0
+[2025/01/09 16:08:52]send_17,ret:1,cnt:3,len:945,remain:15,cs:1
+[2025/01/09 16:08:52]send_18,ret:1,cnt:3,len:955,remain:12,cs:1
+[2025/01/09 16:08:52]send_19,ret:1,cnt:3,len:952,remain:9,cs:1
+[2025/01/09 16:08:52]send_20,ret:1,cnt:3,len:982,remain:6,cs:1
+[2025/01/09 16:08:52]send_21,ret:1,cnt:3,len:953,remain:3,cs:1
+[2025/01/09 16:08:52]send_22,ret:1,cnt:3,len:972,remain:0,cs:1
+[2025/01/09 16:08:55]send_23,ret:1,cnt:2,len:385,remain:0,cs:1
+[2025/01/09 16:10:08][JAVA]*#06#:AddTouchEvent:col=213|row=1633|col_max=1080|row_max=1920|id=9|name=synaptics_dsx_i2c|source=4098|external=0|flags=0
+[2025/01/09 16:10:38]send_24,ret:1,cnt:1,len:49,remain:0,cs:0

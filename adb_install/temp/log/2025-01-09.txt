@@ -1,0 +1,40 @@
+>>>D:\sdk\7.2.X\7.2.17.20786\demo\ACE_Tools_7.2.17_20059_c#.apk
+com.tencent.green.ace未闪退，运行正常
+user_info->uin_.uin_str_:AB36366565F9E02C191ACE_7217
+OpenID:9D3B69AF046DA7E37CA278B9,
+
+>>>D:\sdk\7.2.X\7.2.17.20786\demo\ACE_Tools_7.2.17_20059_c#_x86.apk
+com.tencent.green.ace发生闪退
+user_info->uin_.uin_str_:AB36366565F9E02C191ACE_7217
+OpenID:9D3B69AF046DA7E37CA278B9,
+
+>>>D:\sdk\7.2.X\7.2.17.20786\demo\ACE_Tools_7.2.17_20059_c#_x86_resigned.apk
+com.tencent.green.ace发生闪退
+user_info->uin_.uin_str_:AB36366565F9E02C191ACE_7217
+OpenID:9D3B69AF046DA7E37CA278B9,
+
+>>>D:\sdk\7.2.X\7.2.17.20786\demo\ANO_Tools_7.2.17_20109_c#.apk
+com.tencent.green.ace.ano未闪退，运行正常
+user_info->uin_.uin_str_:AB36366565F9E02C191ACEANO_7217
+OpenID:9D3B69AF046DA7E37CA278B9,
+
+>>>D:\sdk\7.2.X\7.2.17.20786\demo\ANO_Tools_7.2.17_8888_c++_32.apk
+com.tencent.sdk_ano未闪退，运行正常
+user_info->uin_.uin_str_:862460035713737_sdkano_7217_32_qq
+OpenID:9D3B69AF046DA7E37CA278B9,
+
+>>>D:\sdk\7.2.X\7.2.17.20786\demo\ANO_Tools_7.2.17_8888_c++_64.apk
+com.tencent.sdk_ano未闪退，运行正常
+user_info->uin_.uin_str_:862460035713737_sdkano_7217_64_qq
+OpenID:9D3B69AF046DA7E37CA278B9,
+
+>>>D:\sdk\7.2.X\7.2.17.20786\demo\Sdk_Tools_7.2.17_8888_c++_32.apk
+com.tencent.sdk未闪退，运行正常
+user_info->uin_.uin_str_:862460035713737_sdk_7217_32_qq
+OpenID:9D3B69AF046DA7E37CA278B9,
+
+>>>D:\sdk\7.2.X\7.2.17.20786\demo\Sdk_Tools_7.2.17_8888_c++_64.apk
+com.tencent.sdk未闪退，运行正常
+user_info->uin_.uin_str_:862460035713737_sdk_7217_64_qq
+OpenID:9D3B69AF046DA7E37CA278B9,
+

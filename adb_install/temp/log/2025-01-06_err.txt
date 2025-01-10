@@ -1,0 +1,158 @@
+10-02-15adb -s 127.0.0.1:5555 shell < D:\code\python\All_project\adb_install\temp\order/low_ver.txt
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10-02-19adb -s 127.0.0.1:5555 shell < D:\code\python\All_project\adb_install\temp\order/low_ver.txt
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10-02-57adb -s 127.0.0.1:5555 shell < D:\code\python\All_project\adb_install\temp\order/low_ver.txt
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10-03-02adb -s 127.0.0.1:5555 shell < D:\code\python\All_project\adb_install\temp\order/low_ver.txt
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10-03-25adb -s 127.0.0.1:5555 shell < D:\code\python\All_project\adb_install\temp\order/low_ver.txt
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10-03-28adb -s 127.0.0.1:5555 shell < D:\code\python\All_project\adb_install\temp\order/low_ver.txt
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10-08-02D:\code\python\All_project\adb_install\Tools\aapt2 dump badging c
+ziparchive W 01-06 10:08:02 57472 34276] Unable to open 'c': No such file or directory
+c: error: failed opening zip: I/O error.
+================================================================================
+
+10-08-11D:\code\python\All_project\adb_install\Tools\aapt2 dump badging c
+ziparchive W 01-06 10:08:11 18908 60820] Unable to open 'c': No such file or directory
+c: error: failed opening zip: I/O error.
+================================================================================
+
+10-09-25D:\code\python\All_project\adb_install\Tools\aapt2.exe dump badging c
+ziparchive W 01-06 10:09:25 16092 58940] Unable to open 'c': No such file or directory
+c: error: failed opening zip: I/O error.
+================================================================================
+
+10-09-56D:\code\python\All_project\adb_install\Tools\aapt2.exe dump badging D
+ziparchive W 01-06 10:09:56 58652 19256] Unable to open 'D': No such file or directory
+D: error: failed opening zip: I/O error.
+================================================================================
+
+10-10-45D:\code\python\All_project\adb_install\Tools\aapt2.exe dump badging D
+ziparchive W 01-06 10:10:45 34504 56724] Unable to open 'D': No such file or directory
+D: error: failed opening zip: I/O error.
+================================================================================
+
+10-15-51D:\code\python\All_project\adb_install\Tools\aapt2.exe dump badging D
+ziparchive W 01-06 10:15:51 59424 29804] Unable to open 'D': No such file or directory
+D: error: failed opening zip: I/O error.
+================================================================================
+
+10-16-01D:\code\python\All_project\adb_install\Tools\aapt2.exe dump badging D
+ziparchive W 01-06 10:16:01 61860 60124] Unable to open 'D': No such file or directory
+D: error: failed opening zip: I/O error.
+================================================================================
+
+10-21-38D:\code\python\All_project\adb_install\Tools\aapt2.exe dump badging D
+ziparchive W 01-06 10:21:38 11992  1272] Unable to open 'D': No such file or directory
+D: error: failed opening zip: I/O error.
+================================================================================
+
+10-24-21D:\code\python\All_project\adb_install\Tools\aapt2.exe dump badging D
+ziparchive W 01-06 10:24:21 34620 58852] Unable to open 'D': No such file or directory
+D: error: failed opening zip: I/O error.
+================================================================================
+
+10-24-54D:\code\python\All_project\adb_install\Tools\aapt2.exe dump badging D
+ziparchive W 01-06 10:24:54 63400 55624] Unable to open 'D': No such file or directory
+D: error: failed opening zip: I/O error.
+================================================================================
+
+10-26-43adb -s 127.0.0.1:5555 shell < D:\code\python\All_project\adb_install\temp\order/low_ver.txt
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10-27-10adb -s 127.0.0.1:5555 shell < D:\code\python\All_project\adb_install\temp\order/low_ver.txt
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10-33-20rd /s /q D:\code\python\All_project\adb_install\D:\code\python\All_project\adb_install\Tools\temp
+文件名、目录名或卷标语法不正确。
+================================================================================
+
+10-33-20D:\code\python\All_project\adb_install\Tools\unzip -od D:\code\python\All_project\adb_install\D:\code\python\All_project\adb_install\Tools\temp D:\shell\need_shell\Clock.aab.apks
+checkdir:  cannot create extraction directory: D:\code\python\All_project\adb_install\D:\code\python\All_project\adb_install\Tools\temp
+================================================================================
+
+10-34-36rd /s /q D:\code\python\All_project\adb_install\D:\code\python\All_project\adb_install\Tools\temp
+文件名、目录名或卷标语法不正确。
+================================================================================
+
+10-34-36D:\code\python\All_project\adb_install\Tools\unzip -od D:\code\python\All_project\adb_install\D:\code\python\All_project\adb_install\Tools\temp D:\shell\need_shell\Clock.aab.apks
+checkdir:  cannot create extraction directory: D:\code\python\All_project\adb_install\D:\code\python\All_project\adb_install\Tools\temp
+================================================================================
+
+10-35-54rd /s /q D:\code\python\All_project\adb_install\D:\code\python\All_project\adb_install\Tools\temp
+文件名、目录名或卷标语法不正确。
+================================================================================
+
+10-35-54D:\code\python\All_project\adb_install\Tools\unzip -od D:\code\python\All_project\adb_install\D:\code\python\All_project\adb_install\Tools\temp D:\shell\need_shell\Clock.aab.apks
+checkdir:  cannot create extraction directory: D:\code\python\All_project\adb_install\D:\code\python\All_project\adb_install\Tools\temp
+================================================================================
+
+10-36-47rd /s /q D:\code\python\All_project\adb_install\D:\code\python\All_project\adb_install\Tools\temp
+文件名、目录名或卷标语法不正确。
+================================================================================
+
+10-36-48D:\code\python\All_project\adb_install\Tools\unzip -od D:\code\python\All_project\adb_install\D:\code\python\All_project\adb_install\Tools\temp D:\shell\need_shell\Clock.aab.apks
+checkdir:  cannot create extraction directory: D:\code\python\All_project\adb_install\D:\code\python\All_project\adb_install\Tools\temp
+================================================================================
+
+10-37-34rd /s /q D:\code\python\All_project\adb_install\D:\code\python\All_project\adb_install\Tools\temp
+文件名、目录名或卷标语法不正确。
+================================================================================
+
+10-37-34D:\code\python\All_project\adb_install\Tools\unzip -od D:\code\python\All_project\adb_install\D:\code\python\All_project\adb_install\Tools\temp D:\shell\need_shell\Clock.aab.apks
+checkdir:  cannot create extraction directory: D:\code\python\All_project\adb_install\D:\code\python\All_project\adb_install\Tools\temp
+================================================================================
+
+10-40-04rd /s /q temp\splits
+系统找不到指定的文件。
+================================================================================
+
+10-40-17java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks D:\shell\need_shell\Clock.aab.apks --device-id 127.0.0.1:5555
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\7208713708690361841
+================================================================================
+
+10-40-17adb -s 127.0.0.1:5555 shell < D:\code\python\All_project\adb_install\temp\order/low_ver.txt
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10-40-17['adb -s 127.0.0.1:5555 shell pm grant com.zeewinpeng.clock android.permission.WRITE_EXTERNAL_STORAGE\n', 'adb -s 127.0.0.1:5555 shell pm grant com.zeewinpeng.clock android.permission.READ_EXTERNAL_STORAGE\n']
+Operation not allowed: java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+================================================================================
+
+10-42-33adb -s 127.0.0.1:5555 shell < D:\code\python\All_project\adb_install\temp\order/low_ver.txt
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11-08-02adb -s 127.0.0.1:5555 shell < D:\code\python\All_project\adb_install\temp\order/low_ver.txt
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11-09-47java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks D:\shell\need_shell\test\Clock.aab.apks --device-id 127.0.0.1:5555
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\17334738734974935174
+================================================================================
+
+11-09-47adb -s 127.0.0.1:5555 shell < D:\code\python\All_project\adb_install\temp\order/low_ver.txt
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11-09-48['adb -s 127.0.0.1:5555 shell pm grant com.zeewinpeng.clock android.permission.WRITE_EXTERNAL_STORAGE\n', 'adb -s 127.0.0.1:5555 shell pm grant com.zeewinpeng.clock android.permission.READ_EXTERNAL_STORAGE\n']
+Operation not allowed: java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+================================================================================
+

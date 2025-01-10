@@ -1,0 +1,5 @@
+su
+mkdir /sdcard/Android/data/pkg_name
+mkdir /sdcard/Android/data/pkg_name/files
+echo 0000000000000000090910009000000000000 > /sdcard/Android/data/pkg_name/files/enable.log
+cp /sdcard/sdk/enable.dat  /sdcard/Android/data/pkg_name/files/enable.dat

@@ -1,0 +1,191 @@
+[2025/01/09 16:15:20]android ver:7.2.17.20786 20230522
+[2025/01/09 16:15:20]{
+[2025/01/09 16:15:20] __ACE_EXPORT__
+[2025/01/09 16:15:20] __ENABLE_DATA_ENC__
+[2025/01/09 16:15:20] __ENABLE_MPRCS__
+[2025/01/09 16:15:20] __ENABLE_TPSTL__
+[2025/01/09 16:15:20] __ENABLE_TPLIBC__
+[2025/01/09 16:15:20] __USE_NEW_QOS_ONLY__
+[2025/01/09 16:15:20]}
+[2025/01/09 16:15:20]module
+[2025/01/09 16:15:20]{
+[2025/01/09 16:15:20] 17:1
+[2025/01/09 16:15:20] 19:1
+[2025/01/09 16:15:20] 24:1
+[2025/01/09 16:15:20] 68:1
+[2025/01/09 16:15:20]}
+[2025/01/09 16:15:20]so:arm64
+[2025/01/09 16:15:20]pid:29723
+[2025/01/09 16:15:20]!aac
+[2025/01/09 16:15:20]ChkInit{
+[2025/01/09 16:15:20]init_info:0x7fd32edbb0
+[2025/01/09 16:15:20]init_info->size_:16
+[2025/01/09 16:15:20]init_info->game_id_:8888
+[2025/01/09 16:15:20]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/01/09 16:15:20]ChkInit}
+[2025/01/09 16:15:20]|jar_ver:7.2.17(2020/11/10)-jar-version
+[2025/01/09 16:15:20]!gp3:29752
+[2025/01/09 16:15:22][VM64][builtin.zip][vm_main.img]build_options
+[2025/01/09 16:15:22][VM64][builtin.zip][vm_main.img]{
+[2025/01/09 16:15:22][VM64][builtin.zip][vm_main.img]  ver:20240619.1
+[2025/01/09 16:15:22][VM64][builtin.zip][vm_main.img]  arch:arm64
+[2025/01/09 16:15:22][VM64][builtin.zip][vm_main.img]  __PLATFORM_ANDROID__
+[2025/01/09 16:15:22][VM64][builtin.zip][vm_main.img]}
+[2025/01/09 16:15:23]cs_dl https://dl.listdl.com/iedsafe/Client/android/test/8888/config2.xml, err:-1, dl len:0, cache:0, report:0
+[2025/01/09 16:15:23]dl https://dl.listdl.com/iedsafe/Client/android/test/8888/config2.xml, retval:-1, size:0, cache:0
+[2025/01/09 16:15:23]!dcf
+[2025/01/09 16:15:23]SetUserInfoEx{
+[2025/01/09 16:15:23]user_info:0x7f89cc0290
+[2025/01/09 16:15:23]user_info->size_:212
+[2025/01/09 16:15:23]user_info->entry_id_:1
+[2025/01/09 16:15:23]user_info->uin_.type_:2
+[2025/01/09 16:15:23]user_info->uin_.uin_str_:862460035713737_sdkano_7217_64_qq
+[2025/01/09 16:15:23]user_info->app_id_.type_:2
+[2025/01/09 16:15:23]user_info->app_id_.app_id_str_:
+[2025/01/09 16:15:23]user_info->world_id_:0
+[2025/01/09 16:15:23]user_info->role_id_:
+[2025/01/09 16:15:23]SetUserInfoEx}
+[2025/01/09 16:15:23]cai:1
+[2025/01/09 16:15:24]get1_0:0x55bfbc2030, remain:0, cs2
+[2025/01/09 16:15:24]del1_0:0x55bfbc2030, remain:0, cs2
+[2025/01/09 16:15:24]send_0,ret:1,cnt:1,len:132,remain:10,cs:0
+[2025/01/09 16:15:25]send_1,ret:1,cnt:1,len:142,remain:9,cs:0
+[2025/01/09 16:15:25]DoConnCSChannelImp, 129.226.1.157:443
+[2025/01/09 16:15:26]send_2,ret:1,cnt:5,len:827,remain:10,cs:1
+[2025/01/09 16:15:26]send_3,ret:1,cnt:3,len:899,remain:7,cs:1
+[2025/01/09 16:15:26]send_4,ret:1,cnt:3,len:682,remain:4,cs:1
+[2025/01/09 16:15:26]send_5,ret:1,cnt:3,len:723,remain:1,cs:1
+[2025/01/09 16:15:26]send_6,ret:1,cnt:1,len:198,remain:0,cs:1
+[2025/01/09 16:15:26]get1_1:0x55bfbc2030, remain:3, cs2
+[2025/01/09 16:15:26]del1_1:0x55bfbc2030, remain:3, cs2
+[2025/01/09 16:15:28]get2:128, 0x7f8a2bae6a
+[2025/01/09 16:15:28]get3_0, 0x55bfbc2030
+[2025/01/09 16:15:28]del3_0, 0x55bfbc2030
+[2025/01/09 16:15:28]send_7,ret:1,cnt:2,len:378,remain:0,cs:1
+[2025/01/09 16:15:28]get4_0, 0x55bfb9ebf0
+[2025/01/09 16:15:28]del4_0, 0x55bfb9ebf0
+[2025/01/09 16:15:28]get1_2:0x55bfbc2030, remain:4, cs2
+[2025/01/09 16:15:28]del1_2:0x55bfbc2030, remain:4, cs2
+[2025/01/09 16:15:30]send_8,ret:1,cnt:1,len:142,remain:0,cs:0
+[2025/01/09 16:15:30][VM64][builtin.zip][vm_main.img]_M_FooScanAlertOnly:1
+[2025/01/09 16:15:30][VM64][builtin.zip][vm_main.img]_M_SimulateExceptionChecked:0
+[2025/01/09 16:15:30][VM64][builtin.zip][vm_main.img]_M_SimulateCrashCracked:0
+[2025/01/09 16:15:30][VM64][builtin.zip][vm_main.img]FooScanerV, time cast:0ms
+[2025/01/09 16:15:30][VM64][builtin.zip][vm_main.img]CommDatScanerV, time cast:0ms
+[2025/01/09 16:15:30][VM64][builtin.zip][vm_main.img]OpcodeScanerV, time cast:102ms
+[2025/01/09 16:15:30][VM64][builtin.zip][vm_main.img]VirappScanerV, time cast:86ms
+[2025/01/09 16:15:30][VM64][builtin.zip][vm_main.img]CertScanerV, time cast:42ms
+[2025/01/09 16:15:30][VM64][builtin.zip][vm_main.img]AttestScanerV, time cast:0ms
+[2025/01/09 16:15:30][VM64][builtin.zip][vm_main.img]RoDataScanerV, time cast:9ms
+[2025/01/09 16:15:30]get1_3:0x55bf9304f0, remain:4, cs2
+[2025/01/09 16:15:30]del1_3:0x55bf9304f0, remain:4, cs2
+[2025/01/09 16:15:32]send_9,ret:1,cnt:1,len:282,remain:0,cs:1
+[2025/01/09 16:15:32]get1_4:0x55bf9304f0, remain:3, cs2
+[2025/01/09 16:15:32]del1_4:0x55bf9304f0, remain:3, cs2
+[2025/01/09 16:15:35]send_10,ret:1,cnt:1,len:131,remain:0,cs:1
+[2025/01/09 16:15:36]cs_dl https://dl.listdl.com/iedsafe/Client/android/test/8888/config2.xml, err:0, dl len:22938, cache:0, report:1
+[2025/01/09 16:15:36]dl https://dl.listdl.com/iedsafe/Client/android/test/8888/config2.xml, retval:0, size:22938, cache:0
+[2025/01/09 16:15:36]dl https://dl.listdl.com/iedsafe/Client/android/test/8888/config3.xml, retval:-1, size:0, cache:0
+[2025/01/09 16:15:38]send_11,ret:1,cnt:1,len:49,remain:3,cs:0
+[2025/01/09 16:15:38]send_12,ret:1,cnt:3,len:665,remain:0,cs:1
+[2025/01/09 16:15:39]cs_dl https://dl.listdl.com/iedsafe/Client/android/8888/C46EB081/comm.zip, err:0, dl len:34824, cache:0, report:1
+[2025/01/09 16:15:39]dl https://dl.listdl.com/iedsafe/Client/android/8888/C46EB081/comm.zip, retval:0, size:34824, cache:0
+[2025/01/09 16:15:39]<cp>root_alert, root_alert:/data/data/com.kingroot.kinguser
+[2025/01/09 16:15:40]send_13,ret:1,cnt:1,len:283,remain:40,cs:0
+[2025/01/09 16:15:40]send_14,ret:1,cnt:4,len:913,remain:36,cs:1
+[2025/01/09 16:15:40]send_15,ret:1,cnt:3,len:820,remain:33,cs:1
+[2025/01/09 16:15:40]send_16,ret:1,cnt:4,len:992,remain:29,cs:1
+[2025/01/09 16:15:40]send_17,ret:1,cnt:1,len:283,remain:28,cs:1
+[2025/01/09 16:15:40]send_18,ret:1,cnt:3,len:830,remain:25,cs:1
+[2025/01/09 16:15:40]send_19,ret:1,cnt:3,len:804,remain:22,cs:1
+[2025/01/09 16:15:40]send_20,ret:1,cnt:3,len:775,remain:19,cs:1
+[2025/01/09 16:15:40]send_21,ret:1,cnt:3,len:752,remain:16,cs:1
+[2025/01/09 16:15:40]send_22,ret:1,cnt:3,len:815,remain:13,cs:1
+[2025/01/09 16:15:40]send_23,ret:1,cnt:3,len:807,remain:10,cs:1
+[2025/01/09 16:15:40]send_24,ret:1,cnt:4,len:986,remain:6,cs:1
+[2025/01/09 16:15:40]send_25,ret:1,cnt:3,len:750,remain:3,cs:1
+[2025/01/09 16:15:40]send_26,ret:1,cnt:3,len:784,remain:0,cs:1
+[2025/01/09 16:15:41]<cp-ret>response:0, t:root_alert
+[2025/01/09 16:15:41]cs_dl https://dl.listdl.com/iedsafe/Client/android/8888/C71830D3/att_dit.zip, err:0, dl len:4060, cache:0, report:1
+[2025/01/09 16:15:41]dl https://dl.listdl.com/iedsafe/Client/android/8888/C71830D3/att_dit.zip, retval:0, size:4060, cache:0
+[2025/01/09 16:15:43]send_27,ret:1,cnt:3,len:668,remain:0,cs:1
+[2025/01/09 16:15:44]cs_dl https://dl.listdl.com/iedsafe/Client/android/8888/8E2DE2AA/tss_ano.dat, err:0, dl len:6443, cache:0, report:1
+[2025/01/09 16:15:44]dl https://dl.listdl.com/iedsafe/Client/android/8888/8E2DE2AA/tss_ano.dat, retval:0, size:6443, cache:0
+[2025/01/09 16:15:45]get2:128, 0x7f8a2bae6a
+[2025/01/09 16:15:45]get3_1, 0x55bf9304f0
+[2025/01/09 16:15:45]del3_1, 0x55bf9304f0
+[2025/01/09 16:15:45]get4_1, 0x55bfbbf210
+[2025/01/09 16:15:45]del4_1, 0x55bfbbf210
+[2025/01/09 16:15:46]send_28,ret:1,cnt:4,len:700,remain:0,cs:1
+[2025/01/09 16:15:46]cs_dl https://dl.listdl.com/iedsafe/Client/android/8888/C300FEA7/ob_cs2.zip, err:0, dl len:18944, cache:0, report:1
+[2025/01/09 16:15:46]dl https://dl.listdl.com/iedsafe/Client/android/8888/C300FEA7/ob_cs2.zip, retval:0, size:18944, cache:0
+[2025/01/09 16:15:46]send_29,ret:1,cnt:2,len:556,remain:0,cs:1
+[2025/01/09 16:15:48]send_30,ret:1,cnt:1,len:136,remain:0,cs:1
+[2025/01/09 16:15:49]cs_dl https://dl.listdl.com/iedsafe/Client/android/8888/45666D5F/comm_ver.zip, err:0, dl len:34877, cache:0, report:1
+[2025/01/09 16:15:49]dl https://dl.listdl.com/iedsafe/Client/android/8888/45666D5F/comm_ver.zip, retval:0, size:34877, cache:0
+[2025/01/09 16:15:51]send_31,ret:1,cnt:4,len:925,remain:2,cs:1
+[2025/01/09 16:15:52]cs_dl https://dl.listdl.com/iedsafe/Client/android/8888/3A14C16E/tssmua2.zip, err:0, dl len:129, cache:0, report:1
+[2025/01/09 16:15:52]dl https://dl.listdl.com/iedsafe/Client/android/8888/3A14C16E/tssmua2.zip, retval:0, size:129, cache:0
+[2025/01/09 16:15:52]send_32,ret:1,cnt:5,len:878,remain:0,cs:1
+[2025/01/09 16:15:54]cs_dl https://dl.listdl.com/iedsafe/Client/android/8888/089F2534/big_data2.zip, err:0, dl len:640624, cache:0, report:1
+[2025/01/09 16:15:54]dl https://dl.listdl.com/iedsafe/Client/android/8888/089F2534/big_data2.zip, retval:0, size:640624, cache:0
+[2025/01/09 16:15:56]send_33,ret:1,cnt:3,len:671,remain:0,cs:1
+[2025/01/09 16:15:58]cs_dl https://dl.listdl.com/iedsafe/Client/android/8888/3EC5CAB6/big_data.zip, err:0, dl len:257933, cache:0, report:1
+[2025/01/09 16:15:58]dl https://dl.listdl.com/iedsafe/Client/android/8888/3EC5CAB6/big_data.zip, retval:0, size:257933, cache:0
+[2025/01/09 16:15:58]|/data/data/log/enable.log:0x00000000, from_c:0
+[2025/01/09 16:15:58]|/sdcard/sdk/log.log:0xb404d81b, from_c:0
+[2025/01/09 16:15:58]|/sdcard/sdk/a.txt:0x00000000, from_c:0
+[2025/01/09 16:15:58]|/sdcard/sdk/b.txt:0x00000000, from_c:0
+[2025/01/09 16:15:59]send_34,ret:1,cnt:3,len:985,remain:6,cs:1
+[2025/01/09 16:15:59]send_35,ret:1,cnt:3,len:839,remain:3,cs:1
+[2025/01/09 16:15:59]send_36,ret:1,cnt:3,len:895,remain:0,cs:1
+[2025/01/09 16:16:01]cs_dl https://dl.listdl.com/iedsafe/Client/android/8888/B7886E9D/hw_sysint.zip, err:0, dl len:352294, cache:0, report:1
+[2025/01/09 16:16:01]dl https://dl.listdl.com/iedsafe/Client/android/8888/B7886E9D/hw_sysint.zip, retval:0, size:352294, cache:0
+[2025/01/09 16:16:03]send_37,ret:1,cnt:3,len:896,remain:1,cs:1
+[2025/01/09 16:16:04]get2:128, 0x7f8a2bae6a
+[2025/01/09 16:16:04]get3_2, 0x55bf9304f0
+[2025/01/09 16:16:04]del3_2, 0x55bf9304f0
+[2025/01/09 16:16:04]get4_2, 0x55bfe60e80
+[2025/01/09 16:16:04]del4_2, 0x55bfe60e80
+[2025/01/09 16:16:05]send_38,ret:1,cnt:3,len:551,remain:1,cs:1
+[2025/01/09 16:16:05]cs_dl https://dl.listdl.com/iedsafe/Client/android/8888/261DAEE5/sundayc.dat, err:0, dl len:10, cache:0, report:1
+[2025/01/09 16:16:05]dl https://dl.listdl.com/iedsafe/Client/android/8888/261DAEE5/sundayc.dat, retval:0, size:10, cache:0
+[2025/01/09 16:16:06]cs:report_qos_if(apk_installed("com.sy4399.hxjy"),102403), retval:0
+[2025/01/09 16:16:06]cs:report_qos_if(apk_installed("com.crisisfire.cmge"),102404), retval:0
+[2025/01/09 16:16:06]cs:report_qos_if(apk_installed("com.crisisfire.android.baidu"),102405), retval:0
+[2025/01/09 16:16:06]cs:report_qos_if(apk_installed("com.wooduan.ssjj"),102406), retval:0
+[2025/01/09 16:16:06]cs:report_qos_if(apk_installed("com.netease.hyxd"),111501), retval:0
+[2025/01/09 16:16:06]cs:report_qos_if(apk_installed("com.netease.zjz"),111502), retval:0
+[2025/01/09 16:16:07]send_39,ret:1,cnt:4,len:967,remain:1,cs:1
+[2025/01/09 16:16:07]cs_dl https://dl.listdl.com/iedsafe/Client/android/8888/3D12EB9C/wz_off.dat, err:0, dl len:68, cache:0, report:1
+[2025/01/09 16:16:07]dl https://dl.listdl.com/iedsafe/Client/android/8888/3D12EB9C/wz_off.dat, retval:0, size:68, cache:0
+[2025/01/09 16:16:09]send_40,ret:1,cnt:3,len:670,remain:1,cs:1
+[2025/01/09 16:16:09]cs_dl https://dl.listdl.com/iedsafe/Client/android/8888/A18AEFA1/shellcode_1028, err:0, dl len:4016, cache:0, report:1
+[2025/01/09 16:16:09]dl https://dl.listdl.com/iedsafe/Client/android/8888/A18AEFA1/shellcode_1028, retval:0, size:4016, cache:0
+[2025/01/09 16:16:09]<cp>9014_alert, 8783f086361ced70cc61f898b291cd10
+[2025/01/09 16:16:11]send_41,ret:1,cnt:3,len:901,remain:10,cs:1
+[2025/01/09 16:16:11]send_42,ret:1,cnt:3,len:827,remain:7,cs:1
+[2025/01/09 16:16:11]send_43,ret:1,cnt:2,len:715,remain:5,cs:1
+[2025/01/09 16:16:11]send_44,ret:1,cnt:2,len:715,remain:3,cs:1
+[2025/01/09 16:16:11]send_45,ret:1,cnt:2,len:486,remain:1,cs:1
+[2025/01/09 16:16:11]<cp-ret>response:0, t:9014_alert
+[2025/01/09 16:16:12]cs_dl https://dl.listdl.com/iedsafe/Client/android/8888/51059891/tss_base.dat, err:0, dl len:7366, cache:0, report:1
+[2025/01/09 16:16:12]dl https://dl.listdl.com/iedsafe/Client/android/8888/51059891/tss_base.dat, retval:0, size:7366, cache:0
+[2025/01/09 16:16:13]send_46,ret:1,cnt:4,len:746,remain:1,cs:1
+[2025/01/09 16:16:13]cs_dl https://dl.listdl.com/iedsafe/Client/android/8888/B9E5DD99/cs_script.zip, err:0, dl len:279, cache:0, report:1
+[2025/01/09 16:16:13]dl https://dl.listdl.com/iedsafe/Client/android/8888/B9E5DD99/cs_script.zip, retval:0, size:279, cache:0
+[2025/01/09 16:16:15]send_47,ret:1,cnt:3,len:781,remain:4,cs:1
+[2025/01/09 16:16:15]send_48,ret:1,cnt:2,len:586,remain:2,cs:1
+[2025/01/09 16:16:15]send_49,ret:1,cnt:2,len:548,remain:0,cs:1
+[2025/01/09 16:16:22]get2:128, 0x7f8a2bae6a
+[2025/01/09 16:16:22]get3_3, 0x55bf9304f0
+[2025/01/09 16:16:22]del3_3, 0x55bf9304f0
+[2025/01/09 16:16:39]get2:128, 0x7f8a2bae6a
+[2025/01/09 16:16:39]get3_4, 0x55bf9304f0
+[2025/01/09 16:16:39]del3_4, 0x55bf9304f0
+[2025/01/09 16:16:41]send_50,ret:1,cnt:1,len:252,remain:0,cs:1
+[2025/01/09 16:16:52]send_51,ret:1,cnt:1,len:128,remain:0,cs:1
+[2025/01/09 16:17:40]send_52,ret:1,cnt:1,len:316,remain:0,cs:1
+[2025/01/09 16:17:46]send_53,ret:1,cnt:1,len:49,remain:1,cs:0
+[2025/01/09 16:17:48]send_54,ret:1,cnt:1,len:57,remain:0,cs:1
+[2025/01/09 16:17:52]send_55,ret:1,cnt:1,len:128,remain:0,cs:1

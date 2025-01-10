@@ -1,0 +1,12 @@
+>>>D:\shell\need_shell\test\ACE_Tools_7.3.9_20059_c#.apk
+com.tencent.green.ace未闪退，运行正常
+user_info->uin_.uin_str_:AB36366565F9E02C191ACE_739	无shell_openid
+
+>>>D:\shell\need_shell\test\ACE_Tools_7.3.9_20059_c#.apk
+com.tencent.green.ace未闪退，运行正常
+user_info->uin_.uin_str_:AB36366565F9E02C191ACE_739	无shell_openid
+
+>>>D:\shell\need_shell\test\Clock.aab.apks
+com.zeewinpeng.clock未闪退，运行正常
+无openid	无shell_openid
+

@@ -1,0 +1,90 @@
+10-35-04D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10-36-36D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.green.ace/files/shell.log | grep OpenID"
+cat: /sdcard/Android/data/com.tencent.green.ace/files/shell.log: No such file or directory
+================================================================================
+
+10-36-38
+rd /s /q D:\code\python\All_project\adb_install\temp\aab_splits
+系统找不到指定的文件。
+================================================================================
+
+10-36-58java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks D:\shell\need_shell\test\Clock.aab.apks --device-id 9e2bd91c
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\4950247472675751851
+================================================================================
+
+10-36-59D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10-36-59['D:\\code\\python\\All_project\\adb_install\\Tools\\adb.exe -s 9e2bd91c shell  pm grant com.zeewinpeng.clock android.permission.WRITE_EXTERNAL_STORAGE\n', 'D:\\code\\python\\All_project\\adb_install\\Tools\\adb.exe -s 9e2bd91c shell  pm grant com.zeewinpeng.clock android.permission.READ_EXTERNAL_STORAGE\n']
+
+Exception occurred while executing 'grant':
+java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:448)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermissionInternal(PermissionManagerService.java:1509)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1462)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:2333)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:266)
+	at android.os.BasicShellCommandHandler.exec(BasicShellCommandHandler.java:98)
+	at android.os.ShellCommand.exec(ShellCommand.java:44)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:23336)
+	at android.os.Binder.shellCommand(Binder.java:929)
+	at android.os.Binder.onTransact(Binder.java:813)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:4946)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4670)
+	at android.os.Binder.execTransactInternal(Binder.java:1159)
+	at android.os.Binder.execTransact(Binder.java:1123)
+================================================================================
+
+10-38-44D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10-40-16D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.green.ace/files/shell.log | grep OpenID"
+cat: /sdcard/Android/data/com.tencent.green.ace/files/shell.log: No such file or directory
+================================================================================
+
+10-40-17
+rd /s /q D:\code\python\All_project\adb_install\temp\aab_splits
+系统找不到指定的文件。
+================================================================================
+
+10-40-31java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks D:\shell\need_shell\test\Clock.aab.apks --device-id 9e2bd91c
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\14725939252194528675
+================================================================================
+
+10-40-31D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10-40-31['D:\\code\\python\\All_project\\adb_install\\Tools\\adb.exe -s 9e2bd91c shell  pm grant com.zeewinpeng.clock android.permission.WRITE_EXTERNAL_STORAGE\n', 'D:\\code\\python\\All_project\\adb_install\\Tools\\adb.exe -s 9e2bd91c shell  pm grant com.zeewinpeng.clock android.permission.READ_EXTERNAL_STORAGE\n']
+
+Exception occurred while executing 'grant':
+java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:448)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermissionInternal(PermissionManagerService.java:1509)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1462)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:2333)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:266)
+	at android.os.BasicShellCommandHandler.exec(BasicShellCommandHandler.java:98)
+	at android.os.ShellCommand.exec(ShellCommand.java:44)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:23336)
+	at android.os.Binder.shellCommand(Binder.java:929)
+	at android.os.Binder.onTransact(Binder.java:813)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:4946)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4670)
+	at android.os.Binder.execTransactInternal(Binder.java:1159)
+	at android.os.Binder.execTransact(Binder.java:1123)
+================================================================================
+
+10-42-03D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.zeewinpeng.clock/files/log.log"
+cat: /sdcard/Android/data/com.zeewinpeng.clock/files/log.log: No such file or directory
+================================================================================
+
+10-42-03D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.zeewinpeng.clock/files/shell.log | grep OpenID"
+cat: /sdcard/Android/data/com.zeewinpeng.clock/files/shell.log: No such file or directory
+================================================================================
+

@@ -1,0 +1,2 @@
+mkdir /sdcard/sdk
+echo 0000000000000000090910009000000000000 > /sdcard/sdk/enable.log

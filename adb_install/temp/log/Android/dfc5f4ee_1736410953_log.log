@@ -1,0 +1,174 @@
+[2025/01/09 16:19:02]GCLOUD_VERSION_TP_7.2.017.20786
+[2025/01/09 16:19:02]android ver:7.2.17.20786 20230522
+[2025/01/09 16:19:02]{
+[2025/01/09 16:19:02] __ENABLE_DATA_ENC__
+[2025/01/09 16:19:02] __ENABLE_MPRCS__
+[2025/01/09 16:19:02] __ENABLE_TPSTL__
+[2025/01/09 16:19:02] __ENABLE_TPLIBC__
+[2025/01/09 16:19:02] __USE_NEW_QOS_ONLY__
+[2025/01/09 16:19:02] __ENABLE_SO_UPDATE__
+[2025/01/09 16:19:02]}
+[2025/01/09 16:19:02]module
+[2025/01/09 16:19:02]{
+[2025/01/09 16:19:02] 17:1
+[2025/01/09 16:19:02] 19:1
+[2025/01/09 16:19:02] 24:1
+[2025/01/09 16:19:02] 68:1
+[2025/01/09 16:19:02]}
+[2025/01/09 16:19:02]so:arm32
+[2025/01/09 16:19:02]pid:30389
+[2025/01/09 16:19:02]!aac
+[2025/01/09 16:19:02]ChkInit{
+[2025/01/09 16:19:02]init_info:0xffe50d6c
+[2025/01/09 16:19:02]init_info->size_:12
+[2025/01/09 16:19:02]init_info->game_id_:8888
+[2025/01/09 16:19:02]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/01/09 16:19:02]ChkInit}
+[2025/01/09 16:19:02]!gp3:30416
+[2025/01/09 16:19:02]TssIoCtl.emm_ex:0,n:,p:files_dir=/data/data/com.tencent.tp/files|wait=1,b:512
+[2025/01/09 16:19:02]get2:128, 0xe13b973c
+[2025/01/09 16:19:02]|jar_ver:7.2.17(2020/11/10)-jar-version
+[2025/01/09 16:19:04][VM32][builtin.zip][vm_main.img]build_options
+[2025/01/09 16:19:04][VM32][builtin.zip][vm_main.img]{
+[2025/01/09 16:19:04][VM32][builtin.zip][vm_main.img]  ver:20240619.1
+[2025/01/09 16:19:04][VM32][builtin.zip][vm_main.img]  arch:arm32
+[2025/01/09 16:19:04][VM32][builtin.zip][vm_main.img]  __PLATFORM_ANDROID__
+[2025/01/09 16:19:04][VM32][builtin.zip][vm_main.img]}
+[2025/01/09 16:19:04]get1_0:0xdfb9bc80, remain:0, cs2
+[2025/01/09 16:19:04]del1_0:0xdfb9bc80, remain:0, cs2
+[2025/01/09 16:19:05]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8888/config2.xml, retval:0, size:22938, cache:0
+[2025/01/09 16:19:05]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8888/config3.xml, retval:0, size:480, cache:0
+[2025/01/09 16:19:05]ver:1.3.3 app_ver:7.2.17.20786.32 code_size:151552 crc:0xe1c5c1c7
+[2025/01/09 16:19:05]ver:1.4.3 app_ver:7.2.17.20786.32 code_size:2522744 crc:0xfb1f2fef
+[2025/01/09 16:19:05]ver:1.3.3 app_ver:7.2.17.20786.32 code_size:151552 crc:0xe1c5c1c7
+[2025/01/09 16:19:05]ver:1.4.3 app_ver:7.2.17.20786.32 code_size:2522744 crc:0xfb1f2fef
+[2025/01/09 16:19:05]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/C46EB081/comm.zip, retval:0, size:34824, cache:0
+[2025/01/09 16:19:05]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/C71830D3/att_dit.zip, retval:0, size:4060, cache:0
+[2025/01/09 16:19:05]SetUserInfoEx{
+[2025/01/09 16:19:05]user_info:0xe0c8e8b0
+[2025/01/09 16:19:05]user_info->size_:212
+[2025/01/09 16:19:05]user_info->entry_id_:1
+[2025/01/09 16:19:05]user_info->uin_.type_:2
+[2025/01/09 16:19:05]user_info->uin_.uin_str_:862460035713737_sdk_7217_32_qq
+[2025/01/09 16:19:05]user_info->app_id_.type_:2
+[2025/01/09 16:19:05]user_info->app_id_.app_id_str_:100555390
+[2025/01/09 16:19:05]user_info->world_id_:32
+[2025/01/09 16:19:05]user_info->role_id_:saite.tt
+[2025/01/09 16:19:05]SetUserInfoEx}
+[2025/01/09 16:19:05]cai:1
+[2025/01/09 16:19:06]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/8E2DE2AA/tss_ano.dat, retval:0, size:6443, cache:0
+[2025/01/09 16:19:06]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/C300FEA7/ob_cs2.zip, retval:0, size:18944, cache:0
+[2025/01/09 16:19:06]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/45666D5F/comm_ver.zip, retval:0, size:34877, cache:0
+[2025/01/09 16:19:06]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/3A14C16E/tssmua2.zip, retval:0, size:129, cache:0
+[2025/01/09 16:19:06]send_0,ret:1,cnt:1,len:132,remain:17,cs:0
+[2025/01/09 16:19:06]get1_1:0xdfb9bc80, remain:0, cs2
+[2025/01/09 16:19:06]del1_1:0xdfb9bc80, remain:0, cs2
+[2025/01/09 16:19:07]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/089F2534/big_data2.zip, retval:0, size:640624, cache:0
+[2025/01/09 16:19:07]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/3EC5CAB6/big_data.zip, retval:0, size:257933, cache:0
+[2025/01/09 16:19:07]get2:128, 0xe13b973c
+[2025/01/09 16:19:07]get3_0, 0xdfb9bc80
+[2025/01/09 16:19:07]del3_0, 0xdfb9bc80
+[2025/01/09 16:19:07]get4_0, 0xde96ab30
+[2025/01/09 16:19:07]del4_0, 0xde96ab30
+[2025/01/09 16:19:07]send_1,ret:1,cnt:1,len:153,remain:19,cs:0
+[2025/01/09 16:19:07]DoConnCSChannelImp, 180.109.171.23:443
+[2025/01/09 16:19:08]send_2,ret:1,cnt:3,len:794,remain:22,cs:1
+[2025/01/09 16:19:08]send_3,ret:1,cnt:3,len:817,remain:19,cs:1
+[2025/01/09 16:19:08]send_4,ret:1,cnt:4,len:730,remain:15,cs:1
+[2025/01/09 16:19:08]send_5,ret:1,cnt:3,len:912,remain:12,cs:1
+[2025/01/09 16:19:08]send_6,ret:1,cnt:3,len:941,remain:9,cs:1
+[2025/01/09 16:19:08]send_7,ret:1,cnt:2,len:707,remain:7,cs:1
+[2025/01/09 16:19:08]send_8,ret:1,cnt:3,len:729,remain:4,cs:1
+[2025/01/09 16:19:08]send_9,ret:1,cnt:3,len:805,remain:1,cs:1
+[2025/01/09 16:19:08]send_10,ret:1,cnt:1,len:198,remain:0,cs:1
+[2025/01/09 16:19:08]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/B7886E9D/hw_sysint.zip, retval:0, size:352294, cache:0
+[2025/01/09 16:19:08]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/261DAEE5/sundayc.dat, retval:0, size:10, cache:0
+[2025/01/09 16:19:08]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/3D12EB9C/wz_off.dat, retval:0, size:68, cache:0
+[2025/01/09 16:19:08]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/A18AEFA1/shellcode_1028, retval:0, size:4016, cache:0
+[2025/01/09 16:19:08]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/51059891/tss_base.dat, retval:0, size:7366, cache:0
+[2025/01/09 16:19:08]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/B9E5DD99/cs_script.zip, retval:0, size:279, cache:0
+[2025/01/09 16:19:08]get1_2:0xdfb9bc80, remain:3, cs2
+[2025/01/09 16:19:08]del1_2:0xdfb9bc80, remain:3, cs2
+[2025/01/09 16:19:10]send_11,ret:1,cnt:3,len:913,remain:4,cs:1
+[2025/01/09 16:19:10]send_12,ret:1,cnt:3,len:918,remain:1,cs:1
+[2025/01/09 16:19:10][VM32][builtin.zip][vm_main.img]_M_FooScanAlertOnly:1
+[2025/01/09 16:19:10][VM32][builtin.zip][vm_main.img]_M_SimulateExceptionChecked:0
+[2025/01/09 16:19:10][VM32][builtin.zip][vm_main.img]_M_SimulateCrashCracked:0
+[2025/01/09 16:19:10][VM32][builtin.zip][vm_main.img]FooScanerV, time cast:0ms
+[2025/01/09 16:19:10][VM32][builtin.zip][vm_main.img]CommDatScanerV, time cast:9ms
+[2025/01/09 16:19:10][VM32][builtin.zip][vm_main.img]OpcodeScanerV, time cast:48ms
+[2025/01/09 16:19:10][VM32][builtin.zip][vm_main.img]VirappScanerV, time cast:50ms
+[2025/01/09 16:19:10]get1_3:0xde96c428, remain:2, cs2
+[2025/01/09 16:19:10]del1_3:0xde96c428, remain:2, cs2
+[2025/01/09 16:19:12]send_13,ret:1,cnt:1,len:269,remain:0,cs:1
+[2025/01/09 16:19:12]get1_4:0xde96c428, remain:1, cs2
+[2025/01/09 16:19:12]del1_4:0xde96c428, remain:1, cs2
+[2025/01/09 16:19:14][VM32][builtin.zip][vm_main.img]CertScanerV, time cast:3170ms
+[2025/01/09 16:19:14][VM32][builtin.zip][vm_main.img]AttestScanerV, time cast:0ms
+[2025/01/09 16:19:14][VM32][builtin.zip][vm_main.img]RoDataScanerV, time cast:11ms
+[2025/01/09 16:19:16]send_14,ret:1,cnt:1,len:305,remain:0,cs:1
+[2025/01/09 16:19:19]<cp>root_alert, root_alert:/data/data/com.kingroot.kinguser
+[2025/01/09 16:19:20]send_15,ret:1,cnt:2,len:356,remain:36,cs:0
+[2025/01/09 16:19:20]send_16,ret:1,cnt:3,len:852,remain:33,cs:1
+[2025/01/09 16:19:20]send_17,ret:1,cnt:3,len:892,remain:30,cs:1
+[2025/01/09 16:19:20]send_18,ret:1,cnt:2,len:576,remain:28,cs:1
+[2025/01/09 16:19:20]send_19,ret:1,cnt:3,len:891,remain:25,cs:1
+[2025/01/09 16:19:20]send_20,ret:1,cnt:3,len:869,remain:22,cs:1
+[2025/01/09 16:19:20]send_21,ret:1,cnt:3,len:838,remain:19,cs:1
+[2025/01/09 16:19:20]send_22,ret:1,cnt:3,len:813,remain:16,cs:1
+[2025/01/09 16:19:20]send_23,ret:1,cnt:3,len:893,remain:13,cs:1
+[2025/01/09 16:19:20]<cp-ret>response:0, t:root_alert
+[2025/01/09 16:19:20][VM]cp4.img end, loop:28344
+[2025/01/09 16:19:21]send_24,ret:1,cnt:3,len:902,remain:14,cs:1
+[2025/01/09 16:19:21]send_25,ret:1,cnt:1,len:281,remain:13,cs:1
+[2025/01/09 16:19:21]send_26,ret:1,cnt:3,len:872,remain:10,cs:1
+[2025/01/09 16:19:21]send_27,ret:1,cnt:3,len:837,remain:7,cs:1
+[2025/01/09 16:19:21]send_28,ret:1,cnt:3,len:784,remain:4,cs:1
+[2025/01/09 16:19:21]send_29,ret:1,cnt:3,len:869,remain:1,cs:1
+[2025/01/09 16:19:23]send_30,ret:1,cnt:1,len:285,remain:0,cs:1
+[2025/01/09 16:19:28]get2:128, 0xe13b973c
+[2025/01/09 16:19:28]get3_1, 0xde97eac8
+[2025/01/09 16:19:28]del3_1, 0xde97eac8
+[2025/01/09 16:19:28]get4_1, 0xdfc52640
+[2025/01/09 16:19:28]del4_1, 0xdfc52640
+[2025/01/09 16:19:30]send_31,ret:1,cnt:2,len:585,remain:0,cs:1
+[2025/01/09 16:19:32]send_32,ret:1,cnt:2,len:269,remain:0,cs:1
+[2025/01/09 16:19:39]|/data/data/log/enable.log:0x00000000, from_c:0
+[2025/01/09 16:19:39]|/sdcard/sdk/log.log:0x064ba535, from_c:0
+[2025/01/09 16:19:39]|/sdcard/sdk/a.txt:0x00000000, from_c:0
+[2025/01/09 16:19:39]|/sdcard/sdk/b.txt:0x00000000, from_c:0
+[2025/01/09 16:19:40]send_33,ret:1,cnt:2,len:909,remain:5,cs:1
+[2025/01/09 16:19:40]send_34,ret:1,cnt:3,len:977,remain:2,cs:1
+[2025/01/09 16:19:40]send_35,ret:1,cnt:2,len:718,remain:0,cs:1
+[2025/01/09 16:19:46]cs:report_qos_if(apk_installed("com.sy4399.hxjy"),102403), retval:0
+[2025/01/09 16:19:46]cs:report_qos_if(apk_installed("com.crisisfire.cmge"),102404), retval:0
+[2025/01/09 16:19:46]cs:report_qos_if(apk_installed("com.crisisfire.android.baidu"),102405), retval:0
+[2025/01/09 16:19:46]cs:report_qos_if(apk_installed("com.wooduan.ssjj"),102406), retval:0
+[2025/01/09 16:19:46]cs:report_qos_if(apk_installed("com.netease.hyxd"),111501), retval:0
+[2025/01/09 16:19:46]cs:report_qos_if(apk_installed("com.netease.zjz"),111502), retval:0
+[2025/01/09 16:19:47]send_36,ret:1,cnt:1,len:347,remain:1,cs:1
+[2025/01/09 16:19:47]get2:128, 0xe13b973c
+[2025/01/09 16:19:47]get3_2, 0xde97eac8
+[2025/01/09 16:19:47]del3_2, 0xde97eac8
+[2025/01/09 16:19:47]get4_2, 0xde928c08
+[2025/01/09 16:19:47]del4_2, 0xde928c08
+[2025/01/09 16:19:49]send_37,ret:1,cnt:2,len:463,remain:1,cs:1
+[2025/01/09 16:19:49]<cp>9014_alert, 8783f086361ced70cc61f898b291cd10
+[2025/01/09 16:19:51]send_38,ret:1,cnt:2,len:718,remain:8,cs:1
+[2025/01/09 16:19:51]send_39,ret:1,cnt:3,len:913,remain:5,cs:1
+[2025/01/09 16:19:51]send_40,ret:1,cnt:2,len:761,remain:3,cs:1
+[2025/01/09 16:19:51]send_41,ret:1,cnt:2,len:761,remain:1,cs:1
+[2025/01/09 16:19:51]<cp-ret>response:0, t:9014_alert
+[2025/01/09 16:19:53]send_42,ret:1,cnt:1,len:96,remain:1,cs:1
+[2025/01/09 16:19:55]send_43,ret:1,cnt:2,len:628,remain:2,cs:1
+[2025/01/09 16:19:55]send_44,ret:1,cnt:2,len:589,remain:0,cs:1
+[2025/01/09 16:20:07]get2:128, 0xe13b973c
+[2025/01/09 16:20:07]get3_3, 0xde97eac8
+[2025/01/09 16:20:07]del3_3, 0xde97eac8
+[2025/01/09 16:20:23]get3_4, 0xde97eac8
+[2025/01/09 16:20:23]del3_4, 0xde97eac8
+[2025/01/09 16:20:34]send_45,ret:1,cnt:1,len:130,remain:0,cs:1
+[2025/01/09 16:21:24]send_46,ret:1,cnt:1,len:337,remain:0,cs:1
+[2025/01/09 16:21:30]send_47,ret:1,cnt:1,len:49,remain:1,cs:0
+[2025/01/09 16:21:32]send_48,ret:1,cnt:1,len:57,remain:0,cs:1
+[2025/01/09 16:21:34]send_49,ret:1,cnt:1,len:130,remain:0,cs:1
