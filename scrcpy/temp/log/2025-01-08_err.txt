@@ -1,0 +1,31 @@
+11-12-19
+taskkill /IM D:\code\python\All_project\scrcpy\Tools/scrcpy.exe /F
+错误: 无效查询
+================================================================================
+
+11-12-19
+taskkill /IM D:\code\python\All_project\scrcpy\Tools/adb.exe /F
+错误: 无效查询
+================================================================================
+
+11-12-20
+D:\code\python\All_project\scrcpy\Tools/scrcpy -s 9e2bd91c --max-size 960
+ERROR: Could not list ADB devices
+ERROR: Server connection failed
+================================================================================
+
+11-13-01
+taskkill /IM D:\code\python\All_project\scrcpy\Tools/scrcpy.exe /F
+错误: 无效查询
+================================================================================
+
+11-13-01
+taskkill /IM D:\code\python\All_project\scrcpy\Tools/adb.exe /F
+错误: 无效查询
+================================================================================
+
+11-13-52
+D:\code\python\All_project\scrcpy\Tools/scrcpy -s 9e2bd91c --max-size 960
+WARN: Killing the server...
+================================================================================
+
